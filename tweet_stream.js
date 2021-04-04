@@ -33,7 +33,7 @@ console.log("mongoose SUCCESS-> connected");
      console.log("Connection succeeded.");
 
  });
-//instragram access token 3538228122.1677ed0.4a67138571f74a8e934dc6cfab8dcf81
+
 var tweetdataSchema = mongoose.Schema;
 var tdata = new tweetdataSchema({
  created_at:String,
