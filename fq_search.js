@@ -44,8 +44,8 @@ This code will give you the exact key and value of the JSON
 
 				 }, { versionKey: false });
  var fq_token = {
-		 Client_id :'TKAF2VNSGELXCYMWXPHA3RIRCH4LHL3CMR1QXVNTOQDI0AUJ',
-		 Client_Secret : 'ORASLMI0DRQ0AVXJLWQCL04WINFQWYIHPX5XXOVKC1UX5FMM'
+		 Client_id :'',
+		 Client_Secret : ''
 		}
 var geo_data 	
 app.get('/:geo_data',function(req,res,next){
